@@ -1,0 +1,46 @@
+h1 {
+    color: #212e3b;
+    font-family: 'Schoolbell', cursive;
+    font-size: 100px;
+    text-align:justify
+   }
+
+h3 {
+    text-align: justify;
+    font-size: 50px;
+    font-family: 'Phudu', cursive;
+    color: #85929E;
+}
+
+container {
+    background-color: bisque;
+}
+
+img {
+    border-image-width: 5%;
+  }
+
+body {
+    background-color: #fffefd
+}
+
+.contrataciones {
+    color: #fffefd;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 25px;
+    text-align: left;
+}
+.MiWeb {
+    color: #fffefd;
+}
+.blockquote {
+    font-family: 'Schoolbell', cursive;
+}
+
+.tarjeta1 {
+    float: left;
+}
+
+.tarjeta2 {
+    float: right;
+}
